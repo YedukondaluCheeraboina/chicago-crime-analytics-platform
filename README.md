@@ -1,4 +1,11 @@
-🚔 Chicago Crime Analytics Platform
+# 🚔 Chicago Crime Analytics Platform
+
+<!-- <p align="center">
+  <img src="assets/images/logo.png" alt="Chicago Crime Analytics Platform" width="180"/>
+</p> -->
+
+<p align="center">
+An End-to-End Crime Intelligence & Business Analytics Platform built using
 🌐 Live Application
 
 🔗 Streamlit App: https://chicago-crime-analytics-platform.streamlit.app/
@@ -6,8 +13,6 @@
 📂 GitHub Repository
 
 🔗 Source Code: https://github.com/YedukondaluCheeraboina/chicago-crime-analytics-platform
-
----
 
 # 📖 Table of Contents
 
