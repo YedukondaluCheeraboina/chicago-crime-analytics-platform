@@ -74,7 +74,7 @@ category_df = load_data(
 arrest_df = load_data(
     """
     SELECT *
-    FROM yearly_arrest_summary
+    FROM vw_arrest_summary
     """
 )
 
@@ -195,7 +195,7 @@ else:
 
     sql_query = """
 SELECT *
-FROM yearly_arrest_summary;
+FROM vw_arrest_summary;
 """
 
     report_name = "Yearly Arrest Report"

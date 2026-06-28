@@ -28,7 +28,8 @@ import streamlit as st
 
 from sqlalchemy import create_engine
 
-from utils.database_config import get_database_url
+# from utils.database_config import get_database_url
+from .database_config import get_database_url
 
 
 # ==========================================================
