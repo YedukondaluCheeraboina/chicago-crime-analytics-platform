@@ -1,0 +1,54 @@
+Chicago Crime Dataset - Initial Exploration Report
+
+1. Dataset Summary
+
+Total Rows : 2000 Total Columns : 22
+
+2. Data Types
+
+Integer Columns : 5 Float Columns : 6 Object Columns : 9 Boolean Columns
+: 2
+
+3. Missing Values
+
+location_desc : 94 (4.70%) ward_no : 37 (1.85%) community_code : 36
+(1.80%) x_coordinate : 67 (3.35%) y_coordinate : 64 (3.20%) latitude :
+73 (3.65%) longitude : 64 (3.20%) location : 74 (3.70%)
+
+No column contains more than 50% missing values. Therefore, no columns
+will be removed.
+
+4. Duplicate Records
+
+Duplicate Rows : 0 No duplicate records were found.
+
+5. Date Columns
+
+The ‘date’ and ‘date_of_update’ columns are stored as object datatype
+and must be converted to datetime.
+
+6. Crime Categories
+
+Number of Unique Crime Types : 16 Most Frequent Crime Type : THEFT
+Occurrences : 416 (~20.8% of all records)
+
+7. Year Range
+
+Minimum Year : 2015 Maximum Year : 2023
+
+8. Data Quality
+
+-   Categorical columns appear clean and consistently formatted.
+-   No obvious leading or trailing spaces were observed in sampled
+    values.
+-   Missing values are below 5% for all affected columns.
+-   The dataset is suitable for cleaning, feature engineering, analysis,
+    and loading into MySQL.
+
+9. Planned Preprocessing
+
+-   Convert date columns to datetime.
+-   Standardize categorical text.
+-   Handle missing values.
+-   Create Year, Month, DayOfWeek, and Hour features.
+-   Load the cleaned dataset into MySQL.

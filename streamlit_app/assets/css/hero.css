@@ -1,0 +1,193 @@
+/* ==========================================
+   HERO SECTION
+========================================== */
+
+.hero{
+
+    display:grid;
+
+    grid-template-columns:2fr 1fr;
+
+    gap:40px;
+
+    padding:50px;
+
+    margin-bottom:35px;
+
+    border-radius:28px;
+
+    background:
+
+        linear-gradient(
+
+            135deg,
+
+            rgba(18,28,45,.75),
+
+            rgba(32,48,82,.65)
+
+        );
+
+    backdrop-filter:blur(24px);
+
+    border:1px solid rgba(255,255,255,.08);
+
+    box-shadow:
+
+        0 20px 60px rgba(0,0,0,.40);
+
+}
+
+.hero-title{
+
+    font-size:56px;
+
+    font-weight:800;
+
+    color:white;
+
+    margin-bottom:20px;
+
+}
+
+.hero-description{
+
+    color:#CBD5E1;
+
+    font-size:22px;
+
+    line-height:1.6;
+
+    max-width:650px;
+
+}
+
+.hero-badge{
+
+    display:inline-block;
+
+    padding:8px 18px;
+
+    margin-bottom:25px;
+
+    border-radius:50px;
+
+    background:
+
+        rgba(59,130,246,.15);
+
+    color:#60A5FA;
+
+    font-size:14px;
+
+    letter-spacing:2px;
+
+}
+
+.hero-buttons{
+
+    display:flex;
+
+    gap:18px;
+
+    margin-top:35px;
+
+}
+
+.primary-btn{
+
+    padding:14px 32px;
+
+    border:none;
+
+    border-radius:16px;
+
+    background:
+
+        linear-gradient(
+
+            135deg,
+
+            #3B82F6,
+
+            #2563EB
+
+        );
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+}
+
+.secondary-btn{
+
+    padding:14px 32px;
+
+    border-radius:16px;
+
+    background:transparent;
+
+    color:white;
+
+    border:1px solid rgba(255,255,255,.15);
+
+}
+
+.live-card{
+
+    height:100%;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    padding:30px;
+
+    border-radius:24px;
+
+    background:
+
+        rgba(255,255,255,.05);
+
+    backdrop-filter:blur(18px);
+
+    border:1px solid rgba(255,255,255,.08);
+
+}
+
+.live-card h3{
+
+    color:white;
+
+}
+
+.live-card p{
+
+    color:#94A3B8;
+
+}
+
+.live-dot{
+
+    width:12px;
+
+    height:12px;
+
+    border-radius:50%;
+
+    background:#10B981;
+
+    display:inline-block;
+
+    margin-bottom:15px;
+
+    box-shadow:
+
+        0 0 20px #10B981;
+
+}

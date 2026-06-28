@@ -1,0 +1,48 @@
+section[data-testid="stSidebar"]{
+
+    background:#111827;
+
+    border-right:1px solid #374151;
+
+}
+
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3{
+
+    color:white;
+
+}
+
+section[data-testid="stSidebar"] p{
+
+    color:#D1D5DB;
+
+}
+
+div[data-baseweb="select"]{
+
+    border-radius:12px;
+
+}
+
+div[data-baseweb="select"] > div{
+
+    background:#1F2937;
+
+    border:1px solid #374151;
+
+}
+
+div[data-testid="stSlider"]{
+
+    padding-top:10px;
+
+}
+
+div[role="radiogroup"]{
+
+    gap:12px;
+
+}
+

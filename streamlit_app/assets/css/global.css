@@ -1,0 +1,58 @@
+/* ==========================================================
+   Global Theme
+========================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+html,
+body,
+[class*="css"]{
+
+    font-family:'Inter',sans-serif;
+
+}
+
+.stApp{
+
+    background:
+        radial-gradient(circle at top right,#132445,#050B17);
+
+    color:var(--text);
+
+}
+
+/* Hide Streamlit */
+
+header{
+
+    visibility:hidden;
+
+}
+
+footer{
+
+    visibility:hidden;
+
+}
+
+#MainMenu{
+
+    visibility:hidden;
+
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar{
+
+    width:8px;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#233657;
+
+    border-radius:50px;
+
+}

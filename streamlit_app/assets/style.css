@@ -1,0 +1,39 @@
+/* @import url("css/variables.css");
+
+@import url("css/global.css");
+
+@import url("css/sidebar.css");
+
+@import url("css/cards.css");
+
+@import url("css/buttons.css");
+
+@import url("css/charts.css");
+
+@import url("css/tables.css");
+
+@import url("css/animations.css");
+
+@import url("css/footer.css");
+
+@import url("css/hero.css"); */
+
+@import url("css/variables.css");
+
+@import url("css/global.css");
+
+@import url("css/hero.css");
+
+@import url("css/cards.css");
+
+@import url("css/buttons.css");
+
+@import url("css/sidebar.css");
+
+/* ==========================================
+   Hide Streamlit Default Navigation
+========================================== */
+/* 
+section[data-testid="stSidebarNav"] {
+    display: none;
+} */
