@@ -1,34 +1,11 @@
-# 🚔 Chicago Crime Analytics Platform
+🚔 Chicago Crime Analytics Platform
+🌐 Live Application
 
-<p align="center">
-  <img src="assets/images/logo.png" alt="Chicago Crime Analytics Platform" width="180"/>
-</p>
+🔗 Streamlit App: https://chicago-crime-analytics-platform.streamlit.app/
 
-<p align="center">
-An End-to-End Crime Intelligence & Business Analytics Platform built using
-<strong>Python</strong>,
-<strong>Streamlit</strong>,
-<strong>MySQL</strong>,
-<strong>Pandas</strong>,
-<strong>Plotly</strong>,
-<strong>SQLAlchemy</strong>,
-and
-<strong>ReportLab</strong>.
-</p>
+📂 GitHub Repository
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-1.58-red?logo=streamlit)
-
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
-
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-green?logo=plotly)
-
-![License](https://img.shields.io/badge/License-MIT-success)
-
-</p>
+🔗 Source Code: https://github.com/YedukondaluCheeraboina/chicago-crime-analytics-platform
 
 ---
 
@@ -685,8 +662,8 @@ Software Developer | Python | SQL | Streamlit | MySQL | Data Analytics
 
 ## Connect
 
-- GitHub: *(Add your GitHub profile)*
-- LinkedIn: *(Add your LinkedIn profile)*
+- GitHub: https://github.com/YedukondaluCheeraboina
+- LinkedIn: https://www.linkedin.com/in/yedukondalucheeraboina/
 
 ---
 
