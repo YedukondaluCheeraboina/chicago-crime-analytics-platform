@@ -685,23 +685,35 @@ Your support is greatly appreciated.
 
 ---
 
-# 📷 Project Gallery
+## 📸 Project Gallery
 
-After deployment, replace these placeholders with actual screenshots.
+### 🏠 Dashboard
 
-| Dashboard | Crime Analysis |
-|-----------|----------------|
-| `assets/screenshots/dashboard.png` | `assets/screenshots/crime_analysis.png` |
-
-| Statistical Analysis | MySQL Reports |
-|----------------------|---------------|
-| `assets/screenshots/statistical_analysis.png` | `assets/screenshots/mysql_reports.png` |
-
-| Project Information |
-|---------------------|
-| `assets/screenshots/project_information.png` |
+![Dashboard](assets/screenshots/dashboard.png)
 
 ---
+
+### 📊 Crime Analysis
+
+![Crime Analysis](assets/screenshots/crime_analysis.png)
+
+---
+
+### 📈 Statistical Analysis
+
+![Statistical Analysis](assets/screenshots/statistical_analysis.png)
+
+---
+
+### 🗄️ MySQL Reports
+
+![MySQL Reports](assets/screenshots/mysql_reports.png)
+
+---
+
+### 👨‍💻 Project Information
+
+![Project Information](assets/screenshots/project_information.png)
 
 <p align="center">
 
