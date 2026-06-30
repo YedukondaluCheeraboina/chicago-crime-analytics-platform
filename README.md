@@ -683,37 +683,41 @@ If you found this project useful:
 
 Your support is greatly appreciated.
 
----
-
 ## 📸 Project Gallery
 
-### 🏠 Dashboard
+### 🏠 Application Overview
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Application Overview](streamlit_app/assets/screenshots/app.png)
 
 ---
 
-### 📊 Crime Analysis
+### 📊 Dashboard
 
-![Crime Analysis](assets/screenshots/crime_analysis.png)
+![Dashboard](streamlit_app/assets/screenshots/dashboard.png)
+
+---
+
+### 🚔 Crime Analysis
+
+![Crime Analysis](streamlit_app/assets/screenshots/crime_analysis.png)
 
 ---
 
 ### 📈 Statistical Analysis
 
-![Statistical Analysis](assets/screenshots/statistical_analysis.png)
+![Statistical Analysis](streamlit_app/assets/screenshots/statistical_analysis.png)
 
 ---
 
 ### 🗄️ MySQL Reports
 
-![MySQL Reports](assets/screenshots/mysql_reports.png)
+![MySQL Reports](streamlit_app/assets/screenshots/mysql_reports.png)
 
 ---
 
 ### 👨‍💻 Project Information
 
-![Project Information](assets/screenshots/project_information.png)
+![Project Information](streamlit_app/assets/screenshots/project_information.png)
 
 <p align="center">
 
