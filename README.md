@@ -130,47 +130,12 @@ The platform is organized into multiple interactive dashboard modules, each desi
 
 # 📸 Dashboard Preview
 
-> **Replace the placeholders below with screenshots after deployment.**
-
 ## 🏠 Dashboard
 
-```
-assets/screenshots/dashboard.png
-```
+![Application Overview](streamlit_app/assets/screenshots/app.png)
 
 ---
 
-## 🚔 Crime Analysis
-
-```
-assets/screenshots/crime_analysis.png
-```
-
----
-
-## 📊 Statistical Analysis
-
-```
-assets/screenshots/statistical_analysis.png
-```
-
----
-
-## 🗄 MySQL Reports
-
-```
-assets/screenshots/mysql_reports.png
-```
-
----
-
-## ℹ️ Project Information
-
-```
-assets/screenshots/project_information.png
-```
-
----
 
 # 🛠 Technology Stack
 
